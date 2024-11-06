@@ -1,13 +1,13 @@
 import { CiLinkedin } from "react-icons/ci";
-import { FaGithub, FaJava, FaLinux, FaPython, FaYoutube } from "react-icons/fa";
+import { FaGithub, FaJava, FaLinux, FaPython } from "react-icons/fa";
 import { AiFillGithub } from "react-icons/ai";
-import { SiFiverr, SiExpress, SiMongodb } from "react-icons/si";
+import { SiExpress, SiMongodb } from "react-icons/si";
 import {
   MdOutlineAlternateEmail,
   MdOutlineDesignServices,
 } from "react-icons/md";
 import { IoCallOutline, IoLocationOutline } from "react-icons/io5";
-import { FiCode, FiSmartphone } from "react-icons/fi";
+import { FiCode} from "react-icons/fi";
 import { FaReact } from "react-icons/fa6";
 import { RiTailwindCssFill } from "react-icons/ri";
 import {

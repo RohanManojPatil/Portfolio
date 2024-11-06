@@ -1,5 +1,4 @@
 import "./Header.css"
-import {me} from "../../assets";
 import SocialHandles from "../../Components/SocialHandles";
 import { Link } from "react-scroll";
 import Points from "../../Components/Points";

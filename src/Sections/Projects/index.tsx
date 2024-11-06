@@ -1,6 +1,5 @@
 import "./Projects.css";
 import {projects} from "../../source";
-import { FaExternalLinkAlt } from "react-icons/fa";
 import { useGSAP } from "@gsap/react";
 import { useRef } from "react";
 import {ScrollTrigger} from "gsap/all"
